@@ -1,6 +1,10 @@
 # SKYLINE-REPO
-AI and WhatsApp assistance 
 
+<div align="center">
+  <a href="https://git.io/typing-svg"> 
+    <img src="https://readme-typing-svg.demolab.com?  font=galaxy&size=60&pause=1000&colour=33ff00&center=true&width=888&height=100&lines=SKYPER-MD+TECH%20AI+AND+WHATSAPP+ASSISTANCE;POWERED+BY+BLAQ-BOY" ait="Typing SVG" />
+
+    
 This is a WhatsApp bot built using the Baileys library for group management, including features like tagging all members, muting/unmuting, and many more. It's designed to help admins efficiently manage WhatsApp groups.
 
 <div align="center"> 
