@@ -19,9 +19,10 @@ WELCOME TO SKYLINE-REPO WHATSAPP BOT,FEEL FREE TO FORK,STAR AND DOPLOY
   <a href="https://youtube.com/@blaqboy10?si=nJt7C38EPyhBIqAL"> 
     
 <div align="center">
-  <img src="https://files.catbox.moe/2osvqf.jpg?style
-    
-  <img src="https://files.catbox.moe/ibk9iq.jpeg?style=for-the-badge&label=Followers" alt="Followers"/>
+  <img src="https://files.catbox.moe/2osvqf.jpg" alt="SKYLINE-REPO" height="300"> 
+  </a> 
+</div>
+    <img src="https://files.catbox.moe/ibk9iq.jpeg?style=for-the-badge&label=Followers" alt="Followers"/>
   <img src="https://img.shields.io/github/stars/2005101/SKYLINE-REPO?style=for-the-badge&label=Stars" alt="Stars"/>
   <img src="https://img.shields.io/github/forks/2005101/SKYLINE-REPO?style=for-the-badge&label=Forks" alt="Forks"/>
   <img src="https://img.shields.io/github/watchers/2005101/SKYLINE-REPO?style=for-the-badge&label=Watchers" alt="Watchers"/>
