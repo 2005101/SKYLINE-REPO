@@ -37,8 +37,7 @@ WELCOME TO SKYLINE-REPO WHATSAPP BOT,FEEL FREE TO FORK,STAR AND DOPLOY
 Click the button below to fork the Knight Bot repository to your GitHub account:
 
 <div align="center">
-  <a href="https://github.com/2005101/K
-    SKYLINE-REPO>
+  <a href="https://github.com/2005101/SKYLINE-REPO/fork">
     <img src="https://img.shields.io/badge/Fork-Repository-blue?style=for-the-badge" alt="Fork the repository"/>
   </a>
 </div>
