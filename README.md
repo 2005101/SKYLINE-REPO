@@ -19,7 +19,7 @@ WELCOME TO SKYLINE-REPO WHATSAPP BOT,FEEL FREE TO FORK,STAR AND DOPLOY
   <a href="https://youtube.com/@blaqboy10?si=nJt7C38EPyhBIqAL"> 
     
 <div align="center">
-  <img src="https://github.com/ 2006101/SKYLINE-REPO/blob/main/assets/bot_image.jpg." alt="SKYLINE-REPO" height="300"> 
+  <img src="https://github.com/ 2006101/SKYLINE-REPO/blob/main/assets/bot_image.jpg" alt="SKYLINE-REPO" height="300"> 
   </a> 
 </div>
     <img src="https://files.catbox.moe/2osvqf.jpg?style=for-the-badge&label=Followers" alt="Followers"/>
