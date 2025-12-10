@@ -19,10 +19,12 @@ WELCOME TO SKYLINE-REPO WHATSAPP BOT,FEEL FREE TO FORK,STAR AND DOPLOY
   <a href="https://youtube.com/@blaqboy10?si=nJt7C38EPyhBIqAL"> 
     
 <div align="center">
-  <img src="https://files.catbox.moe/2osvqf.jpg?style=for-the-badge&label=Followers" alt="Followers"/>
-  <img src="https://img.shields.io/github/stars/mruniquehacker/Knightbot-MD?style=for-the-badge&label=Stars" alt="Stars"/>
-  <img src="https://img.shields.io/github/forks/mruniquehacker/Knightbot-MD?style=for-the-badge&label=Forks" alt="Forks"/>
-  <img src="https://img.shields.io/github/watchers/mruniquehacker/Knightbot-MD?style=for-the-badge&label=Watchers" alt="Watchers"/>
+  <img src="https://files.catbox.moe/2osvqf.jpg?style
+    
+  <img src="https://files.catbox.moe/ibk9iq.jpeg?style=for-the-badge&label=Followers" alt="Followers"/>
+  <img src="https://img.shields.io/github/stars/2005101/SKYLINE-REPO?style=for-the-badge&label=Stars" alt="Stars"/>
+  <img src="https://img.shields.io/github/forks/2005101/SKYLINE-REPO?style=for-the-badge&label=Forks" alt="Forks"/>
+  <img src="https://img.shields.io/github/watchers/2005101/SKYLINE-REPO?style=for-the-badge&label=Watchers" alt="Watchers"/>
 </div>
 
 ---
@@ -34,7 +36,8 @@ WELCOME TO SKYLINE-REPO WHATSAPP BOT,FEEL FREE TO FORK,STAR AND DOPLOY
 Click the button below to fork the Knight Bot repository to your GitHub account:
 
 <div align="center">
-  <a href="https://github.com/mruniquehacker/Knightbot-MD/fork">
+  <a href="https://github.com/2005101/K
+    SKYLINE-REPO>
     <img src="https://img.shields.io/badge/Fork-Repository-blue?style=for-the-badge" alt="Fork the repository"/>
   </a>
 </div>
@@ -46,7 +49,7 @@ Click the button below to fork the Knight Bot repository to your GitHub account:
 Deploy the bot and easily connect it to your WhatsApp account by pair code. Click the button below to deploy the bot on Replit.
 
 <div align="center">
-  <a href="https://knight-bot-paircode.onrender.com" target="_blank">
+  <a href="https://SKYLINE-REPO-paircode.onrender.com" target="_blank">
     <img src="https://img.shields.io/badge/GET%20PAIR%20CODE-Easy%20Method-ff4d4d?style=for-the-badge" alt="Generate Pair Code"/>
   </a>
 </div>
